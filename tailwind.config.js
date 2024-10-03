@@ -8,6 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'heroImage': "url('images/HorizontalBorder.svg')",
+        'bgHeroImg': "url(images/bg-hero.jpg)"
       }
     },
   },
